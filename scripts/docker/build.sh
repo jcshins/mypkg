@@ -62,4 +62,3 @@ fi
 
 # Update local image
 docker pull "$CR_USERNAME/$PKG_NAME:$VERSION"
-EOF
